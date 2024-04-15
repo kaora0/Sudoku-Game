@@ -1,0 +1,21 @@
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\ASUS\Desktop\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
